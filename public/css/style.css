@@ -138,12 +138,7 @@ html {
     margin-left: 1.1rem;
     margin-block: -2rem;
 }
-.chat-container {
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    height: 100vh;
-}
+
 footer{
     margin-top: 25rem;
     text-align: center;
